@@ -4,8 +4,20 @@ body {
   padding: 3%;
 }
 
+.css {
+  color: blue;
+}
+
 .header {
   text-align: center;
+}
+
+.html {
+  color: red;
+}
+
+.javascript {
+  color: purple;
 }
 
 ol li {
