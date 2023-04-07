@@ -16,8 +16,18 @@ body {
   color: red;
 }
 
+img {
+  width: 300px;
+  height: auto;
+}
+
 .javascript {
   color: purple;
+}
+
+ol {
+  /* padding-left: 10%; */
+  width: 45%;
 }
 
 ol li {
@@ -25,8 +35,11 @@ ol li {
 }
 
 .sidebar {
-  width: 30%;
+  width: 45%;
   float: right;
+  border: solid thin black;
+  padding: 3px;
+  margin: 16px;
 }
 
 /* .test {
