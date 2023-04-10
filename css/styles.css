@@ -26,7 +26,6 @@ img {
 }
 
 ol {
-  /* padding-left: 10%; */
   width: 45%;
 }
 
@@ -41,9 +40,3 @@ ol li {
   padding: 3px;
   margin: 16px;
 }
-
-/* .test {
-  margin: 3%;
-  border: solid black;
-  padding: 3%;
-} */

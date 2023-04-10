@@ -15,13 +15,11 @@ _A portfolio page listing my projects in Github, a short description of each and
 
 ## Setup/Installation Requirements
 
-* _Clone this repository to your desktop._
-* _Navigate to the top level of the directory._
-* _Open index.html._
+* _This page is available at https://aidanwilliams01.github.io/git-html-css-independent-project/._
 
 ## Known Bugs
 
-* _I used lorem ipsum for my background information._
+* _I used lorem ipsum placeholder text for my background information._
 
 ## License
 
