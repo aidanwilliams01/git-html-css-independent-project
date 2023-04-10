@@ -19,7 +19,7 @@ _A portfolio page listing my projects in Github, a short description of each and
 
 ## Known Bugs
 
-* _I used lorem ipsum placeholder text for my background information._
+* _No known bugs._
 
 ## License
 
